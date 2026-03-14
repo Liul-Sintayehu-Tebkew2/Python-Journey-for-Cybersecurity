@@ -1,0 +1,7 @@
+cipher_text.txt => this is the encryted file
+
+freq_attack_v2.py => this is the file you are going to run, it starts web server. visit localhost:5000 after running the file
+
+secret_key.txt => this is the key. use it to decrypted the encryted text. to decrypt you will use the value of the index then match it with the key of the dictionary.
+
+# in the python file replace the plain_text with your choice. but don't include punctution. Always insert space after .
